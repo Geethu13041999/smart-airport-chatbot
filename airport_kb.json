@@ -1,0 +1,60 @@
+{
+  "locations": [
+    {
+      "name": "Gate B12",
+      "category": "gate",
+      "terminal": "Terminal 2",
+      "floor": "Floor 1",
+      "description": "Proceed through security and follow signs to Gate B12. Located at the end of Concourse B."
+    },
+    {
+      "name": "Baggage Claim Hall",
+      "category": "baggage_claim",
+      "terminal": "Terminal 1",
+      "floor": "Ground Floor",
+      "description": "Follow the baggage claim signs after passing through arrivals. Carousels 1-6 are available."
+    },
+    {
+      "name": "Check-In Hall",
+      "category": "check_in",
+      "terminal": "Terminal 1",
+      "floor": "Departure Level",
+      "description": "Check-in desks are located on the departure level. Self-service kiosks are also available."
+    },
+    {
+      "name": "Security Checkpoint",
+      "category": "security",
+      "terminal": "Terminal 1",
+      "floor": "Departure Level",
+      "description": "Security screening is located after check-in. Please have your boarding pass and ID ready."
+    },
+    {
+      "name": "Ground Transportation Hub",
+      "category": "transportation",
+      "terminal": "Terminal 1",
+      "floor": "Ground Floor",
+      "description": "Taxis, buses, car rentals and the train station are accessible from the ground floor exit."
+    },
+    {
+      "name": "Executive Lounge",
+      "category": "lounge",
+      "terminal": "Terminal 2",
+      "floor": "Floor 2",
+      "description": "The Executive Lounge is located airside on Floor 2. Access requires a boarding pass and lounge membership."
+    },
+    {
+      "name": "Food Court and Restaurants",
+      "category": "restaurant",
+      "terminal": "Terminal 1",
+      "floor": "Floor 1",
+      "description": "Multiple dining options are available on Floor 1 including cafes, fast food and sit-down restaurants."
+    },
+    {
+      "name": "Passenger Restrooms",
+      "category": "restroom",
+      "terminal": "Terminal 1",
+      "floor": "All Floors",
+      "description": "Restrooms are located on every floor near the main corridors. Accessible facilities are available."
+    }
+  ]
+}

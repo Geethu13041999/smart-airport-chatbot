@@ -1,0 +1,201 @@
+query,intent
+Where is gate B12?,gate
+How do I get to gate A3?,gate
+Which terminal is gate C7 in?,gate
+I need to find my departure gate,gate
+Can you tell me where gate D5 is?,gate
+Where is the boarding gate for my flight?,gate
+How far is gate B20 from here?,gate
+I am looking for gate F1,gate
+Which floor is gate A10 on?,gate
+Where do I go to board my plane?,gate
+Can you direct me to gate C15?,gate
+I cannot find gate E8,gate
+Is gate B3 in terminal 1 or terminal 2?,gate
+Where is the nearest gate to me?,gate
+How do I reach gate A22?,gate
+I need directions to gate D11,gate
+What level is gate C4 on?,gate
+Where is my departure gate located?,gate
+Can I still make it to gate B7?,gate
+Which way is gate A1?,gate
+Where is gate F12?,gate
+How do I get to the international departure gates?,gate
+I am trying to find gate B15,gate
+Where is gate C9?,gate
+Which direction is gate D2?,gate
+Where can I collect my bags?,baggage_claim
+Where is the baggage claim area?,baggage_claim
+How do I get to baggage reclaim?,baggage_claim
+Where do I pick up my luggage?,baggage_claim
+Which carousel is my luggage on?,baggage_claim
+Where is the baggage carousel?,baggage_claim
+I need to find the luggage collection point,baggage_claim
+Where is baggage claim for international flights?,baggage_claim
+How do I get to the arrivals luggage area?,baggage_claim
+Where do I collect my suitcase?,baggage_claim
+Which floor is baggage claim on?,baggage_claim
+Where is the baggage belt?,baggage_claim
+I just landed where do I get my bags?,baggage_claim
+How far is baggage claim from arrivals?,baggage_claim
+Where is the lost luggage desk?,baggage_claim
+Can you direct me to baggage reclaim?,baggage_claim
+Is there a baggage claim in terminal 2?,baggage_claim
+Which terminal has the baggage carousel?,baggage_claim
+Where is carousel number 3?,baggage_claim
+I need to go to baggage collection,baggage_claim
+Where is the arrivals baggage hall?,baggage_claim
+My bag should be on belt 5 where is that?,baggage_claim
+Where is the oversized baggage claim?,baggage_claim
+How do I find baggage claim from arrivals?,baggage_claim
+Where is the baggage claim for domestic flights?,baggage_claim
+Where is check-in?,check_in
+Where do I check in for my flight?,check_in
+Which desk do I check in at?,check_in
+How do I get to the check-in counters?,check_in
+Where is the self-service check-in?,check_in
+I need to find the check-in area,check_in
+Where is the airline check-in desk?,check_in
+How do I check in my luggage?,check_in
+Where are the check-in kiosks?,check_in
+Which floor is check-in on?,check_in
+Can you show me where to check in?,check_in
+Where is the online check-in desk?,check_in
+I need directions to check-in,check_in
+Is there a fast track check-in?,check_in
+Where is business class check-in?,check_in
+How far is check-in from the entrance?,check_in
+Which terminal is check-in in?,check_in
+Where do I drop my bags after online check-in?,check_in
+Where is the bag drop desk?,check_in
+I need to find the check-in hall,check_in
+Where is the departure check-in?,check_in
+Which way is check-in from here?,check_in
+Is check-in open yet?,check_in
+Where is the check-in queue?,check_in
+How do I get to check-in counters?,check_in
+Where is security?,security
+How do I get to security?,security
+Where is the security checkpoint?,security
+Which way is passport control?,security
+Where do I go through security screening?,security
+How long is the security queue?,security
+Where is the fast track security lane?,security
+I need to find the security area,security
+Which floor is security on?,security
+Where is the security scanner?,security
+How do I reach the security checkpoint?,security
+Where is immigration and customs?,security
+Is there a priority security lane?,security
+How far is security from check-in?,security
+Where is the pre-security area?,security
+Can you direct me to passport control?,security
+Where does security screening take place?,security
+Which terminal has the security gates?,security
+I need to go through security where is it?,security
+Where is the security hall?,security
+How do I get to the airside area?,security
+Where is customs control?,security
+Where do I clear security for international flights?,security
+How do I get past security?,security
+Which direction is the security checkpoint?,security
+How do I get to the bus stop?,transportation
+Where can I get a taxi?,transportation
+Where is the car rental desk?,transportation
+How do I get to the train station from here?,transportation
+Where is the shuttle bus?,transportation
+How do I get public transport from the airport?,transportation
+Where can I catch a cab?,transportation
+Where is the taxi rank?,transportation
+Which way is the car park?,transportation
+How do I get to the metro from here?,transportation
+Where is the airport bus terminal?,transportation
+Where do I go for car hire?,transportation
+How do I get a ride from the airport?,transportation
+Where is the long stay car park?,transportation
+Which exit do I use for taxis?,transportation
+Where is the rental car return?,transportation
+How do I get to the railway station?,transportation
+Where is the airport express train?,transportation
+Where can I find ground transportation?,transportation
+How do I reach public transport?,transportation
+Where is the bus to the city center?,transportation
+Which level is the car park on?,transportation
+Where is the drop-off zone?,transportation
+How do I get from the airport to the city?,transportation
+Where is the pick-up area for taxis?,transportation
+Where is the lounge?,lounge
+How do I get to the airport lounge?,lounge
+Where is the business class lounge?,lounge
+Which terminal is the lounge in?,lounge
+Is there a VIP lounge in this terminal?,lounge
+Where can I relax before my flight?,lounge
+How do I access the departure lounge?,lounge
+Where is the first class lounge?,lounge
+I have lounge access where do I go?,lounge
+Which floor is the lounge on?,lounge
+Where is the priority lounge?,lounge
+How do I find the executive lounge?,lounge
+Is there a lounge near gate B?,lounge
+Where is the airline lounge?,lounge
+Where can I wait in comfort before my flight?,lounge
+Which way is the departure lounge?,lounge
+Where is the premium lounge?,lounge
+How far is the lounge from security?,lounge
+Where is the quiet lounge area?,lounge
+Can you direct me to the business lounge?,lounge
+I am looking for the airport lounge,lounge
+Where is the lounge entrance?,lounge
+Is the lounge past security?,lounge
+Where is the international lounge?,lounge
+Which direction is the airport lounge?,lounge
+Where is the restaurant?,restaurant
+Where can I get something to eat?,restaurant
+Is there a cafe near here?,restaurant
+Where are the food outlets?,restaurant
+How do I find the dining area?,restaurant
+Where is the nearest coffee shop?,restaurant
+Which floor has restaurants?,restaurant
+Is there a food court in this terminal?,restaurant
+Where can I grab a quick meal?,restaurant
+Where is McDonald's in the airport?,restaurant
+Where is the nearest cafe?,restaurant
+How do I find somewhere to eat?,restaurant
+Where are the airport restaurants?,restaurant
+Is there a restaurant after security?,restaurant
+Where can I get breakfast in the airport?,restaurant
+Which way is the food court?,restaurant
+Where is the bar in the terminal?,restaurant
+I am hungry where can I eat?,restaurant
+Where is the nearest fast food?,restaurant
+Is there a Starbucks in this terminal?,restaurant
+Where can I get a hot drink?,restaurant
+Where are the airside restaurants?,restaurant
+Where is the airport food hall?,restaurant
+How do I find a restaurant before my flight?,restaurant
+Where can I buy food in the airport?,restaurant
+Where is the restroom?,restroom
+Where are the toilets?,restroom
+How do I find the bathroom?,restroom
+Where is the nearest WC?,restroom
+Which way is the washroom?,restroom
+Is there a toilet near gate B?,restroom
+Where are the public restrooms?,restroom
+I need to find the bathroom urgently,restroom
+Where is the nearest toilet?,restroom
+Are there toilets on this floor?,restroom
+Where is the ladies bathroom?,restroom
+Where is the gents toilet?,restroom
+How do I find the accessible toilet?,restroom
+Where are the restrooms in terminal 2?,restroom
+Is there a toilet near security?,restroom
+Where can I find the bathroom in the departure area?,restroom
+Which direction are the restrooms?,restroom
+Where are the toilets after passport control?,restroom
+I need the bathroom where is it?,restroom
+Where is the nearest restroom to gate C?,restroom
+Are there toilets near the lounge?,restroom
+Where is the family restroom?,restroom
+How do I get to the airport bathroom?,restroom
+Where are the facilities in this terminal?,restroom
+Is there a restroom near the check-in area?,restroom

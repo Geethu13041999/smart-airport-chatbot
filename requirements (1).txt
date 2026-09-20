@@ -1,0 +1,38 @@
+# Smart Airport Passenger Assistance Multimodal Chatbot
+# Python dependencies — install via: pip install -r requirements.txt
+# Note: This project is designed to run in Google Colab with GPU support.
+
+# Core ML frameworks
+torch>=2.0.0
+torchvision>=0.15.0
+
+# HuggingFace ecosystem
+transformers>=5.0.0
+datasets>=2.0.0
+
+# FAISS (CPU version — Colab installs GPU version automatically)
+faiss-cpu>=1.7.4
+
+# Image processing
+Pillow>=9.0.0
+
+# Audio processing
+openai-whisper>=20230918
+librosa>=0.10.0
+soundfile>=0.12.0
+
+# Text-to-speech (for audio dataset generation)
+gTTS>=2.3.0
+
+# Web interface
+gradio>=4.0.0
+
+# Data handling
+numpy>=1.24.0
+pandas>=2.0.0
+scikit-learn>=1.3.0
+
+# Utilities
+tqdm>=4.65.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
